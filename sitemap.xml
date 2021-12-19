@@ -123,7 +123,7 @@
 
   <url>
     <loc>http://example.com/</loc>
-    <lastmod>2021-12-01</lastmod>
+    <lastmod>2021-12-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -131,14 +131,14 @@
   
   <url>
     <loc>http://example.com/tags/Typora/</loc>
-    <lastmod>2021-12-01</lastmod>
+    <lastmod>2021-12-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/Markdown/</loc>
-    <lastmod>2021-12-01</lastmod>
+    <lastmod>2021-12-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -147,7 +147,7 @@
   
   <url>
     <loc>http://example.com/categories/Markdown/</loc>
-    <lastmod>2021-12-01</lastmod>
+    <lastmod>2021-12-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>

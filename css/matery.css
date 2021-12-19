@@ -541,7 +541,21 @@ header .go-back i {
     background-size: cover;
     transform: translate3d(0px, 0px, 0px);
 }
+/* 背景数字雨 */
+canvas {
+    position:fixed;
+    right:0px;
+    bottom:0px;
+    min-width:100%;
+    min-height:100%;
+    height:auto;
+    width:auto;
+    z-index:-5;
+}
 
+.cateee{
+    margin-top: 15px;
+}
 .index-cover {
     height: 100vh;
 }
